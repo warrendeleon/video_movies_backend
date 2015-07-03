@@ -1,0 +1,1 @@
+INSERT INTO videomovies.movies (movie_id, country, director, name, year, genre) VALUES (1, 'Spain', 'Almodobar', 'Todo sobre mi madre', 1999, "COMEDY");
