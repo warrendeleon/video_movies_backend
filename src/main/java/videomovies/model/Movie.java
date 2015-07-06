@@ -14,6 +14,7 @@ public class Movie {
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "movie_id")
     private Long id;
+
     @Column
     @NotNull
     private String name;
