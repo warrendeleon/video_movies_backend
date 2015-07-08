@@ -3,10 +3,6 @@ package videomovies.model;
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 
-/**
- * Created by DAM on 4/5/15.
- */
-
 @Entity
 @Table(name = "movies")
 public class Movie {
